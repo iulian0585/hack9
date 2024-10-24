@@ -1,0 +1,5 @@
+Product Terms and Conditions
+
+If location is ON ROAD, will be provided one bike repair shop.
+If location is AT HOME or time is past 8:00 PM, will be provided instructions on how to do the reparation themselves.
+If some parts need to be replaced, will be provided URLS of bike parts websites.
